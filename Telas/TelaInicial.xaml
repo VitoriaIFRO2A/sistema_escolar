@@ -1,0 +1,57 @@
+﻿<Window x:Class="sistema_escolar.Telas.TelaInicial"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sistema_escolar.Telas"
+        mc:Ignorable="d"
+        Title="TelaInicial" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Background="#FFA0FFAA"/>
+        <Border Background="AliceBlue" Grid.Column="1"/>
+
+        <StackPanel VerticalAlignment="Center">
+            <Button Content="Cadastro de Escola" Padding="10" Margin="5" Background="Transparent" BorderBrush="Transparent"/>
+            <Button Content="Cadastro de Turma" Padding="10" Margin="5" Background="Transparent" BorderBrush="Transparent"/>
+            <Button Content="Cadastro de Aluno" Padding="10" Margin="5" Background="Transparent" BorderBrush="Transparent"/>
+            <Button Content="Cadastro de Curso" Padding="10" Margin="5" Background="Transparent" BorderBrush="Transparent"/>
+        </StackPanel>
+
+        <Grid Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel>
+                <Label Content="Escolas cadastradas" FontSize="18"/>
+                <DataGrid Width="auto" Height="170" Margin="10"/>
+            </StackPanel>
+            
+            <StackPanel Grid.Column="1">
+                <Label Content="Turmas cadastradas" FontSize="18"/>
+                <DataGrid Width="auto" Height="170" Margin="10"/>
+            </StackPanel>
+            
+            <StackPanel Grid.Column="0" Grid.Row="1">
+                <Label Content="Alunos cadastrados" FontSize="18"/>
+                <DataGrid Width="auto" Height="170" Margin="10"/>
+            </StackPanel>
+            
+            <StackPanel Grid.Column="1" Grid.Row="1">
+                <Label Content="Cursos cadastrados" FontSize="18"/>
+                <DataGrid Width="auto" Height="170" Margin="10"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

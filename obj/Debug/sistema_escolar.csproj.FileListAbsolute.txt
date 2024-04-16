@@ -1,0 +1,17 @@
+C:\Users\2022102020086\source\repos\sistema_escolar\bin\Debug\sistema_escolar.exe.config
+C:\Users\2022102020086\source\repos\sistema_escolar\bin\Debug\sistema_escolar.exe
+C:\Users\2022102020086\source\repos\sistema_escolar\bin\Debug\sistema_escolar.pdb
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar.csproj.AssemblyReference.cache
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\Telas\MainWindow.g.cs
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\Telas\TelaInicial.g.cs
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\App.g.cs
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar_MarkupCompile.cache
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar_MarkupCompile.lref
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\Telas\MainWindow.baml
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\Telas\TelaInicial.baml
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar.g.resources
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar.Properties.Resources.resources
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar.csproj.GenerateResource.cache
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar.csproj.CoreCompileInputs.cache
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar.exe
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar.pdb

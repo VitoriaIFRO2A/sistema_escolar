@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98FAF0CC-EF79-49CC-8F70-7DBDFDC8FBBF}|sistema_escolar.csproj|c:\\users\\2022102020086\\source\\repos\\sistema_escolar\\telas\\cadastro_aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98FAF0CC-EF79-49CC-8F70-7DBDFDC8FBBF}|sistema_escolar.csproj|solutionrelative:telas\\cadastro_aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FAF0CC-EF79-49CC-8F70-7DBDFDC8FBBF}|sistema_escolar.csproj|c:\\users\\2022102020086\\source\\repos\\sistema_escolar\\telas\\cadastro_curso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98FAF0CC-EF79-49CC-8F70-7DBDFDC8FBBF}|sistema_escolar.csproj|solutionrelative:telas\\cadastro_curso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FAF0CC-EF79-49CC-8F70-7DBDFDC8FBBF}|sistema_escolar.csproj|c:\\users\\2022102020086\\source\\repos\\sistema_escolar\\telas\\cadastro_escola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98FAF0CC-EF79-49CC-8F70-7DBDFDC8FBBF}|sistema_escolar.csproj|solutionrelative:telas\\cadastro_escola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FAF0CC-EF79-49CC-8F70-7DBDFDC8FBBF}|sistema_escolar.csproj|c:\\users\\2022102020086\\source\\repos\\sistema_escolar\\telas\\cadastro_turma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98FAF0CC-EF79-49CC-8F70-7DBDFDC8FBBF}|sistema_escolar.csproj|solutionrelative:telas\\cadastro_turma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FAF0CC-EF79-49CC-8F70-7DBDFDC8FBBF}|sistema_escolar.csproj|c:\\users\\2022102020086\\source\\repos\\sistema_escolar\\telas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98FAF0CC-EF79-49CC-8F70-7DBDFDC8FBBF}|sistema_escolar.csproj|solutionrelative:telas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FAF0CC-EF79-49CC-8F70-7DBDFDC8FBBF}|sistema_escolar.csproj|c:\\users\\2022102020086\\source\\repos\\sistema_escolar\\telas\\telainicial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98FAF0CC-EF79-49CC-8F70-7DBDFDC8FBBF}|sistema_escolar.csproj|solutionrelative:telas\\telainicial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\Telas\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Telas\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\Telas\\MainWindow.xaml",
+              "RelativeToolTip": "Telas\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T17:27:39.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastro_curso.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\Telas\\Cadastro_curso.xaml",
+              "RelativeDocumentMoniker": "Telas\\Cadastro_curso.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\Telas\\Cadastro_curso.xaml",
+              "RelativeToolTip": "Telas\\Cadastro_curso.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T17:26:35.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cadastro_turma.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\Telas\\Cadastro_turma.xaml",
+              "RelativeDocumentMoniker": "Telas\\Cadastro_turma.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\Telas\\Cadastro_turma.xaml",
+              "RelativeToolTip": "Telas\\Cadastro_turma.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T17:23:51.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cadastro_aluno.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\Telas\\Cadastro_aluno.xaml",
+              "RelativeDocumentMoniker": "Telas\\Cadastro_aluno.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\Telas\\Cadastro_aluno.xaml",
+              "RelativeToolTip": "Telas\\Cadastro_aluno.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T17:18:45.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastro_escola.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\Telas\\Cadastro_escola.xaml",
+              "RelativeDocumentMoniker": "Telas\\Cadastro_escola.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\Telas\\Cadastro_escola.xaml",
+              "RelativeToolTip": "Telas\\Cadastro_escola.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T17:11:48.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TelaInicial.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\Telas\\TelaInicial.xaml",
+              "RelativeDocumentMoniker": "Telas\\TelaInicial.xaml",
+              "ToolTip": "C:\\Users\\2022102020086\\source\\repos\\sistema_escolar\\Telas\\TelaInicial.xaml",
+              "RelativeToolTip": "Telas\\TelaInicial.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T16:55:00.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

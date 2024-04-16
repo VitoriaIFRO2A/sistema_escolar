@@ -1,0 +1,49 @@
+﻿<Window x:Class="sistema_escolar.Telas.Cadastro_aluno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sistema_escolar.Telas"
+        mc:Ignorable="d"
+        Title="Cadastro_aluno" Height="450" Width="800">
+    <Grid Background="AliceBlue">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20*"/>
+                <RowDefinition Height="150*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="CADASTRO DE ALUNO" HorizontalAlignment="Center" VerticalAlignment="center" FontSize="25" Height="43" Width="auto" Grid.ColumnSpan="2"/>
+            <Button HorizontalAlignment="Left" Content="VOLTAR" Padding="10" Background="Transparent" BorderBrush="AliceBlue"/>
+
+            <StackPanel Grid.Row="1">
+                <Label Content="ID:" HorizontalAlignment="Left" Grid.Row="1" Grid.Column="0" VerticalAlignment="Top" FontSize="20" Height="37" Width="70"/>
+                <TextBox Grid.Row="1" Text="" VerticalAlignment="Top" Width="auto" Padding="5" Margin="10 0 10 10"/>
+
+                <Label Content="NOME:" HorizontalAlignment="Left"  Grid.Row="2" Grid.Column="0" VerticalAlignment="Top" FontSize="20" Height="37" Width="119" />
+                <TextBox Grid.Row="1" Text="" VerticalAlignment="Top" Width="auto" Padding="5" Margin="10 0 10 10"/>
+
+                <Label Content="CPF:" HorizontalAlignment= "Left" Grid.Row="2" VerticalAlignment="Top" FontSize="21" Height="38" Width="246"/>
+                <TextBox Grid.Row="1" Text="" VerticalAlignment="Top" Width="auto" Padding="5" Margin="10 0 10 10"/>
+
+
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="1">
+                <Label Content="ENDEREÇO:" HorizontalAlignment="Left"  Grid.Row="2" Grid.Column="1" VerticalAlignment="Top" FontSize="20" Height="37" Width="180"/>
+                <TextBox Grid.Row="1" Text="" VerticalAlignment="Top" Width="auto" Padding="5" Margin="10 0 10 10" Grid.Column="1"/>
+
+                <Label Content="CIDADE:" HorizontalAlignment="Left"  Grid.Row="2" Grid.Column="1" VerticalAlignment="Top" FontSize="20" Height="37" Width="180"/>
+                <TextBox Grid.Row="1" Text="" VerticalAlignment="Top" Width="auto" Padding="5" Margin="10 0 10 10"/>
+
+                <WrapPanel HorizontalAlignment="Center">
+                    <Button Content="EXCLUIR"   Height="auto" Width="auto" Margin="10" Padding="10"/>
+                    <Button Content="CADASTRAR"  Height="auto" Width="auto" Margin="10" Padding="10"/>
+                </WrapPanel>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
