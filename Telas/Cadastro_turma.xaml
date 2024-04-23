@@ -17,7 +17,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Label Content="CADASTRO DE TURMA" HorizontalAlignment="Center" VerticalAlignment="center" FontSize="25" Height="43" Width="auto" Grid.ColumnSpan="2"/>
-            <Button HorizontalAlignment="Left" Content="VOLTAR" Padding="10" Background="Transparent" BorderBrush="AliceBlue"/>
+            <Button HorizontalAlignment="Left" Content="VOLTAR" Padding="10" Background="Transparent" BorderBrush="AliceBlue" Click="Button_Click"/>
 
             <StackPanel Grid.Row="1">
                 <Label Content="ID:" HorizontalAlignment="Left" Grid.Row="1" Grid.Column="0" VerticalAlignment="Top" FontSize="20" Height="37" Width="70"/>

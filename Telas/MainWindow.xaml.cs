@@ -1,4 +1,5 @@
-﻿using System;
+﻿using sistema_escolar.Telas;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,13 @@ namespace sistema_escolar
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            TelaInicial telaInicial = new TelaInicial();
+            telaInicial.Show();
+            this.Close();
         }
     }
 }

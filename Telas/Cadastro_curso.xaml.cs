@@ -23,5 +23,12 @@ namespace sistema_escolar.Telas
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            TelaInicial telaInicial = new TelaInicial();
+            telaInicial.Show();
+            this.Close();
+        }
     }
 }

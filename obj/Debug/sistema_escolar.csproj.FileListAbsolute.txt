@@ -15,3 +15,11 @@ C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar.cs
 C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar.csproj.CoreCompileInputs.cache
 C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar.exe
 C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\sistema_escolar.pdb
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\Telas\Cadastro_aluno.g.cs
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\Telas\Cadastro_curso.g.cs
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\Telas\Cadastro_escola.g.cs
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\Telas\Cadastro_turma.g.cs
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\Telas\Cadastro_aluno.baml
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\Telas\Cadastro_curso.baml
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\Telas\Cadastro_escola.baml
+C:\Users\2022102020086\source\repos\sistema_escolar\obj\Debug\Telas\Cadastro_turma.baml

@@ -17,7 +17,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Label Content="CADASTRO DE ESCOLA" HorizontalAlignment="Center" VerticalAlignment="center" FontSize="25" Height="43" Width="auto" Grid.ColumnSpan="2"/>
-            <Button HorizontalAlignment="Left" Content="VOLTAR" Padding="10" Background="Transparent" BorderBrush="AliceBlue"/>
+            <Button HorizontalAlignment="Left" Content="VOLTAR" Padding="10" Background="Transparent" BorderBrush="AliceBlue" Click="Button_Click"/>
 
             <StackPanel Grid.Row="1">
                 <Label Content="ID:" HorizontalAlignment="Left" Grid.Row="1" Grid.Column="0" VerticalAlignment="Top" FontSize="20" Height="37" Width="70"/>
@@ -44,8 +44,8 @@
                 <TextBox Grid.Row="1" Text="" VerticalAlignment="Top" Width="auto" Padding="5" Margin="10 0 10 10"/>
 
                 <WrapPanel HorizontalAlignment="Center">
-                    <Button Content="EXCLUIR"   Height="auto" Width="auto" Margin="10" Padding="10"/>
-                    <Button Content="CADASTRAR"  Height="auto" Width="auto" Margin="10" Padding="10"/>
+                    <Button Content="EXCLUIR"   Height="auto" Width="auto" Margin="10" Padding="10" Background="AliceBlue" BorderBrush="AliceBlue"/>
+                    <Button Content="CADASTRAR"  Height="auto" Width="auto" Margin="10" Padding="10" Background="AliceBlue" BorderBrush="AliceBlue"/>
                 </WrapPanel>
             </StackPanel>
         </Grid>
